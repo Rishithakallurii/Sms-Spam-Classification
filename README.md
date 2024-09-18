@@ -9,7 +9,11 @@ To develop effective machine learning models for SMS spam classification, evalua
 1. NLTK: For text preprocessing, including stopwords removal and lemmatization.
 2. Scikit-Learn: For implementing and evaluating machine learning models.
 # You can install these libraries using pip:
+
+
+```
 pip install nltk scikit-learn numpy pandas
+```
 
 # Model Training and Evaluation
 We use two machine learning models for classification:
