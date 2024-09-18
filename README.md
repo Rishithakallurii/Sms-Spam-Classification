@@ -16,6 +16,10 @@ We use two machine learning models for classification:
 
 1. Naive Bayes: The MultinomialNB model is trained on the preprocessed data, and its performance is evaluated using cross-validation with the F1 score as the metric.
 2. Decision Tree: The DecisionTreeClassifier is also trained and evaluated using the same cross-validation approach.
+# Results 
+
+After performing suitable machine learning algorithms we conclude that decision tree algorithm gives better accuracy than navie bayes model and aslo having confusion matrix of high TP and TN rates, low FP and FN rates.
+
 
 # Contact
 For any questions or feedback, please contact rishithakalluri22@gmail.com.
